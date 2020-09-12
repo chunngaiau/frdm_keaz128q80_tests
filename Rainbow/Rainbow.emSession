@@ -66,8 +66,8 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="24" y="6" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="main.c" selected="1" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="15" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="main.c" selected="1" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Kinetis_KEA/Source/SKEAZ1284_Vectors.s" selected="0" top="0" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="Rainbow" fileDialogDefaultFilter="" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="D:/User Files/Documents/SEGGER Embedded Studio for ARM Projects/Rainbow/drivers" debugSearchPath="" autoConnectCapabilities="3199"/>
+ <ARMCrossStudioWindow activeProject="Rainbow" fileDialogDefaultFilter="" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="D:/User Files/Documents/SEGGER Embedded Studio for ARM Projects/Rainbow/thumb_crt0.s&#xa;D:/User Files/Documents/SEGGER Embedded Studio for ARM Projects/FRDM_KEAZ128Q80_Tests/Rainbow/thumb_crt0.s" fileDialogInitialDirectory="D:/User Files/Documents/SEGGER Embedded Studio for ARM Projects/FRDM_KEAZ128Q80_Tests/Rainbow" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

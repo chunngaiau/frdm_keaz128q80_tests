@@ -31,11 +31,11 @@ int main(void) {
 
   FTM1_C1SC = FTM_CnSC_MSB_MASK | FTM_CnSC_ELSA_MASK;
 
-  FTM2_MOD = 100;
+  FTM2_MOD = 5000;
   FTM2_C0V = 0;
   FTM2_C1V = 0;
 
-  FTM1_MOD = 100;
+  FTM1_MOD = 5000;
   FTM1_C1V = 0;
 
   // Enable button input

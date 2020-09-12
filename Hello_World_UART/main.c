@@ -49,7 +49,7 @@ int main() {
 
   // Set up led pin
   GPIOB_PDDR |= 1 << BLUE_LED;
-  GPIOB_PSOR |= 1 << BLUE_LED;
+  GPIOB_PSOR |= 1 << BLUE_LED; // Set is Off for LED
 
   for (;;) {
     ;
